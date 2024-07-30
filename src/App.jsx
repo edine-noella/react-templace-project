@@ -4,6 +4,7 @@ import FeaturesSectionCard from './components/FeaturesSectionCard'
 import features from './components/features'
 import AboutUs from './components/AboutUs'
 
+
 import './App.css'
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
       <div className='flex'>
           {featuresSectionCards}
       </div>
+      <AboutUs />
       </div>
     
     </div>
