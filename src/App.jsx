@@ -2,6 +2,7 @@ import Navbar from './components/Navbar'
 import LandingSection from './components/LandingSection'
 import FeaturesSectionCard from './components/FeaturesSectionCard'
 import features from './components/features'
+import AboutUs from './components/AboutUs'
 
 import './App.css'
 
