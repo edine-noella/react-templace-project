@@ -1,0 +1,16 @@
+
+.bg-picture{
+    background-image: url('./../public/intro-bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    filter: brightness(70%);
+
+}
+
+body{
+  font-family: "Lato", sans-serif;
+}
